@@ -1,3 +1,4 @@
+-- display songs which fulfill certain parameters
 SELECT name
 FROM songs
 WHERE danceability > 0.75
