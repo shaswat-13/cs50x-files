@@ -1,0 +1,21 @@
+If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+
+-> from the top 100 songs, since spotify keeps the data of the danceability, loudness, energy, speechiness, valence, tempo
+and the length of songs along with the frquency in which a person listens to these songs and the time they listen it to,
+we could simply find out the average of these metrics and compare it to the audio aura colours like orange for high energy and loud music,
+yellow for calm and lower tempo and less speechiness and so on.
+
+----
+
+Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener.
+What better ways of calculating this aura would you propose?
+
+-> it is very difficult to properly categorize a person's personality and aura let alone with the type of music they listen to.
+there may be instances where the type of person whose personality type resembles calm and tranquil may actually
+listen to very high energetic, loud and obnoxious type of music which doesnt match the description of calm and tranquil so
+the way aura has been calculated might not be representative of the listener.
+
+better ways of calculating a persons aura may be to analyze their personal behaviours and their way of living life and dealing with
+the ebbs and flows of life rather than calculating the average tempo of the music they listen to.
+
+x
